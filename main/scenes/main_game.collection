@@ -39,7 +39,7 @@ embedded_instances {
   "  id: \"sprite\"\n"
   "  type: \"sprite\"\n"
   "  data: \"tile_set: \\\"/main/atlases/backgrounds.atlas\\\"\\n"
-  "default_animation: \\\"logo_256\\\"\\n"
+  "default_animation: \\\"logo\\\"\\n"
   "material: \\\"/builtins/materials/sprite.material\\\"\\n"
   "blend_mode: BLEND_MODE_ALPHA\\n"
   "\"\n"
@@ -57,8 +57,8 @@ embedded_instances {
   "}\n"
   ""
   position {
-    x: 0.0
-    y: 0.0
+    x: 170.0
+    y: -161.0
     z: 0.0
   }
   rotation {
